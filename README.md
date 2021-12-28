@@ -3,8 +3,8 @@
 + Locked 50% of tokens proof: https://cryptexlock.me/token/56/0xC3434677Ec3048df655c39a376969eCD7b726Ef6
 ---
 ## Join us on our social media accounts!
-+ Web: https://www.chiwatoken.com/
++ Web: https://chiwatoken.com/
 + Telegram: https://t.me/chiwa_official
 + Twitter: https://twitter.com/chiwatoken
-+ Instagram: https://www.instagram.com/chiwatoken/
-+ YouTube: https://www.youtube.com/channel/UCUR55xaEQjxkU80u0hA8bgw
++ Instagram: https://instagram.com/chiwatoken/
++ YouTube: https://youtube.com/channel/UCUR55xaEQjxkU80u0hA8bgw
